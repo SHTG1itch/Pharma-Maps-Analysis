@@ -1,0 +1,1 @@
+This program should be highly interactive and should be able to provide nice visualizations that the average person can understand.
