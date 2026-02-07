@@ -1,0 +1,33 @@
+{
+  "name": "pharma-maps-analysis",
+  "version": "1.0.0",
+  "description": "Interactive map visualization of patient locations for pharmaceutical analysis",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SHTG1itch/Pharma-Maps-Analysis.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/SHTG1itch/Pharma-Maps-Analysis/issues"
+  },
+  "homepage": "https://github.com/SHTG1itch/Pharma-Maps-Analysis#readme",
+  "devDependencies": {
+    "@vitejs/plugin-react": "^5.1.3",
+    "vite": "^7.3.1"
+  },
+  "dependencies": {
+    "@react-google-maps/api": "^2.20.8",
+    "papaparse": "^5.5.3",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4"
+  }
+}
